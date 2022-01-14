@@ -1,5 +1,7 @@
 import React, { Fragment } from "react";
 import PropTypes from "prop-types";
+import films from "./data/films"
+
 export const Film = (props) => {
   return (
     <Fragment>
@@ -8,6 +10,7 @@ export const Film = (props) => {
       <p>Acteur: {props.acteur}</p>
       <p>Durée: {props.duree} </p>
       <p>Résumé: {props.resume} </p>
+   
     </Fragment>
   );
 };

@@ -35,7 +35,7 @@ return(
             return (
               <li> 
                   Numero du film : {unfilm.id} {<br></br>} 
-                  Image du film : {unfilm.image} {<br></br>} 
+                  Image du film : <img src= {unfilm.image} width="100px"/>  {<br></br>} 
                 Titre du film : {unfilm.titre}{<br></br>}Acteur du film : {unfilm.acteur}
                 {<br></br>} Duree: {unfilm.duree}{<br></br>} Resume : {unfilm.resume} {<br></br>} {<br></br>} 
               </li>
