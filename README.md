@@ -1,19 +1,15 @@
 Application qui propose les films à l'affiche d'un cinéma en utilisant les fonctionnalités React Une dépendance a été ajouté :react router dom
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+J'affiche sur la page d'accueil la liste des films presents dans le cinema avec les informations concernant le cinema (son nom , etc)
+je peux ajouter un film et le supprimer mais il ne saffiche pas dans la liste d'origine de tous mes films il s'affiche uniquement dans la page d'ajout du film les informations ne sont pas envoyes dans la page d'accueil
 
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 
 ### `npm test`
 
@@ -69,6 +65,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#� �e�x�o�-�c�i�n�e�m�a�
-�
-�
