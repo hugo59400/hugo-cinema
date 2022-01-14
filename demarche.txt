@@ -1,0 +1,2 @@
+J'affiche sur la page d'accueil la liste des films presents dans le cinema 
+je peux ajouter un film et le supprimer mais il ne saffiche pas dans la liste d'origine de tous mes films 
