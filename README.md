@@ -2,8 +2,8 @@ Application qui propose les films à l'affiche d'un cinéma en utilisant les fon
 # Appli cinema
 
 
-J'affiche sur la page d'accueil la liste des films presents dans le cinema avec les informations concernant le cinema (son nom , etc)
-je peux ajouter un film et le supprimer mais il ne saffiche pas dans la liste d'origine de tous mes films il s'affiche uniquement dans la page d'ajout du film les informations ne sont pas envoyes dans la page d'accueil
+J'affiche sur la page d'accueil la liste des films presents dans le cinema (info stockes dans un fichier a part) avec les informations concernant le cinema (son nom , etc)
+je peux ajouter un film et le supprimer mais il ne saffiche pas dans la liste d'origine de tous mes films il s'affiche uniquement dans la page courante du formulaire d'ajout du film les informations ne sont pas envoyes dans la page d'accueil
 
 
 Runs the app in the development mode.\
